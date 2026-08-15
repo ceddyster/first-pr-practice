@@ -17,4 +17,4 @@ branch, commit, push, and merge.
 python greet.py
 ```
 
-You should recieve a friendly greeting in your terminal.
+You should receive a friendly greeting in your terminal.
